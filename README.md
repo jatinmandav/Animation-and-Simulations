@@ -12,3 +12,4 @@ Further Details can be Found on my Blog : https://jatinmandav.wordpress.com
   - More About Two Dice Roll Graph Simulation : https://jatinmandav.wordpress.com/2017/08/21/two-dice-roll-graph-simulation-in-python/
   - Time Lapse Video on YouTube : https://www.youtube.com/watch?v=ujW3s48iN-k&t=9s
  - [Fidget Spinner](Fidget_Spinner/)
+  - Time Lapse Video on YouTube : https://www.youtube.com/watch?v=dJf01J9lrxI
